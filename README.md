@@ -1,3 +1,3 @@
-# Intellistra-ITServices
+# it-services-erp
 
-I T Services ERP — powered by APPNEURAL
+It Services ERP — powered by APPNEURAL
